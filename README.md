@@ -2,7 +2,7 @@
 <h3 align="center">Front-End Developer | Problem Solver | C++ Programmer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="image.png" alt="profile views" />
 </p>
 
 ---
@@ -89,33 +89,23 @@ Project Description Here
 
 <p align="left">
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/GergesMahfouz/GergesMahfouz/edit/main/README.md">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/gerges-mahfouz-0ba20037b">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_FACEBOOK_LINK">
+<a href="https://www.facebook.com/share/1CwrDzfC86/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/gerges42911?igsh=amU1dmN5eHo0bzNl">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="YOUR_X_LINK">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
 
-<a href="YOUR_DISCORD_LINK">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
