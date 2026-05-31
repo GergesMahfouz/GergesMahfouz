@@ -89,7 +89,7 @@ Project Description Here
 
 <p align="left">
 
-<a href="https://github.com/GergesMahfouz/GergesMahfouz/edit/main/README.md">
+<a href="https://github.com/GergesMahfouz">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
